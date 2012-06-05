@@ -9,3 +9,4 @@ example
 2. (19,2) returns 38
 
 travisify badge
+[![build status](https://secure.travis-ci.org/sean17/LCM.png)](http://travis-ci.org/sean17/LCM)

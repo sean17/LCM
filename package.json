@@ -7,8 +7,14 @@
     "type": "git",
     "url": "git://github.com/sean17/LCM.git"
   },
+  "scripts" : {
+  "test" : "tap test/*.js"
+  },
+  "main" : "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "tap": "0.2.5"
+  },
   "optionalDependencies": {},
   "engines": {
     "node": "*"

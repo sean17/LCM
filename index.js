@@ -12,5 +12,4 @@ module.exports = function(a, b) {
             return i * num1;
         }
     }
-    console.log('I\'ve found an answer!');
 }; 
